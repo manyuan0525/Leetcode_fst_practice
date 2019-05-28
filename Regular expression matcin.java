@@ -1,4 +1,5 @@
 public class Solution {
+    // problem: check out if these two string could have the same content
     public boolean isMatch(String s, String p) {
         // base case: either s or p is empty
         if (s == null || p == null) {
